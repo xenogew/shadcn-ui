@@ -13,9 +13,9 @@ version.workspace = true
 anyhow.workspace = true
 convert_case = "0.8.0"
 env_logger.workspace = true
-handlebars = "6.1.0"
+handlebars = "6.3.2"
 log.workspace = true
-regex = "1.11.0"
+regex = "1.11.1"
 shadcn-registry = { path = "../packages/registry" }
 serde.workspace = true
 serde_json.workspace = true

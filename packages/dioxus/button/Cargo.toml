@@ -1,0 +1,16 @@
+[package]
+name = "shadcn-ui-dioxus-button"
+description = "Dioxus port of shadcn/ui Button."
+homepage = "https://shadcn-ui.rustforweb.org/components/button.html"
+publish = false
+
+authors.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+version.workspace = true
+
+[dependencies]
+tailwind_fuse.workspace = true
+dioxus.workspace = true
+lucide-dioxus.workspace = true
